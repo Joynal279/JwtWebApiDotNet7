@@ -222,3 +222,4 @@
 /Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
 /Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/BCrypt.Net-Next.dll
