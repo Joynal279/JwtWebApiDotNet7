@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oWobJRMdMeDhA3TbiMjTeXZdvuXg+medraIhTSyUEdWM5UtDTQD89O201ui0wF7hqqWp10yTltDAnttpYbgH0g==",
+  "dgSpecHash": "r9nkkNkT+qs3OOdGPaCNDvSnPXqQBX5Ss5ErXJEP9EB0czfp6oTcCHfr6zIbUrNoHWxrJlM2rEuapfMxeZVvtg==",
   "success": true,
   "projectFilePath": "/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/JwtWebApiDotNet7.csproj",
   "expectedPackageFiles": [
+    "/Users/joynalabedin/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/Users/joynalabedin/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/joynalabedin/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/joynalabedin/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",
