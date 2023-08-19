@@ -3,9 +3,8 @@ namespace JwtWebApiDotNet7.Models
 {
 	public class UserDto
 	{
-		public UserDto()
-		{
-		}
+		public required string Username { get; set; }
+		public required string Password { get; set; }
 	}
 }
 
