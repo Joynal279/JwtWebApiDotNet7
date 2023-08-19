@@ -223,3 +223,11 @@
 /Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
