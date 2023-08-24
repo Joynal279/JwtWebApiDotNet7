@@ -1,4 +1,36 @@
 ﻿<Properties StartupConfiguration="{EAE1D8C2-1826-482E-BD8A-49D21D08529F}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.JwtWebApiDotNet7 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JwtWebApiDotNet7/Program.cs">
+    <Files>
+      <File FileName="JwtWebApiDotNet7/Models/User.cs" />
+      <File FileName="JwtWebApiDotNet7/Models/UserDto.cs" />
+      <File FileName="JwtWebApiDotNet7/Controllers/AuthController.cs" Line="70" Column="46" />
+      <File FileName="JwtWebApiDotNet7/appsettings.json" />
+      <File FileName="JwtWebApiDotNet7/appsettings.Development.json" />
+      <File FileName="JwtWebApiDotNet7/Controllers/WeatherForecastController.cs" Line="25" Column="74" />
+      <File FileName="JwtWebApiDotNet7/WeatherForecast.cs" Line="7" Column="28" />
+      <File FileName="JwtWebApiDotNet7/Program.cs" Line="14" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JwtWebApiDotNet7" expanded="True">
+            <Node name="JwtWebApiDotNet7">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JwtWebApiDotNet7 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
