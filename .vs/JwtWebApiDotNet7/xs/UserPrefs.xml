@@ -4,27 +4,27 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="JwtWebApiDotNet7/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JwtWebApiDotNet7/Controllers/AuthController.cs">
     <Files>
       <File FileName="JwtWebApiDotNet7/Models/User.cs" />
       <File FileName="JwtWebApiDotNet7/Models/UserDto.cs" />
-      <File FileName="JwtWebApiDotNet7/Controllers/AuthController.cs" Line="70" Column="46" />
+      <File FileName="JwtWebApiDotNet7/Controllers/AuthController.cs" Line="17" Column="49" />
       <File FileName="JwtWebApiDotNet7/appsettings.json" />
       <File FileName="JwtWebApiDotNet7/appsettings.Development.json" />
-      <File FileName="JwtWebApiDotNet7/Controllers/WeatherForecastController.cs" Line="25" Column="74" />
-      <File FileName="JwtWebApiDotNet7/WeatherForecast.cs" Line="7" Column="28" />
-      <File FileName="JwtWebApiDotNet7/Program.cs" Line="14" Column="39" />
+      <File FileName="JwtWebApiDotNet7/Controllers/WeatherForecastController.cs" Line="16" Column="1" />
+      <File FileName="JwtWebApiDotNet7/WeatherForecast.cs" />
+      <File FileName="JwtWebApiDotNet7/Program.cs" Line="34" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="JwtWebApiDotNet7" expanded="True">
-            <Node name="JwtWebApiDotNet7">
+          <Node name="JwtWebApiDotNet7">
+            <Node name="JwtWebApiDotNet7" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthController.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
