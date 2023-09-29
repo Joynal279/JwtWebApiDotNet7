@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nDXg87YbXjUSFgn6Ez8+dQpJs9loG6RiHJJwlBiKVWw=",
+  "Source": "JwtWebApiDotNet7",
+  "BasePath": "_content/JwtWebApiDotNet7",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

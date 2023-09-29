@@ -10674,25 +10674,24 @@
     ]
   },
   "packageFolders": {
-    "/Users/joynalabedin/.nuget/packages/": {}
+    "/Users/mac/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/JwtWebApiDotNet7.csproj",
+      "projectUniqueName": "/Users/mac/Documents/DotNet/JwtWebApiDotNet7/JwtWebApiDotNet7/JwtWebApiDotNet7.csproj",
       "projectName": "JwtWebApiDotNet7",
-      "projectPath": "/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/JwtWebApiDotNet7.csproj",
-      "packagesPath": "/Users/joynalabedin/.nuget/packages/",
-      "outputPath": "/Users/joynalabedin/Documents/DotNetMVC/JwtWebApiDotNet7/JwtWebApiDotNet7/obj/",
+      "projectPath": "/Users/mac/Documents/DotNet/JwtWebApiDotNet7/JwtWebApiDotNet7/JwtWebApiDotNet7.csproj",
+      "packagesPath": "/Users/mac/.nuget/packages/",
+      "outputPath": "/Users/mac/Documents/DotNet/JwtWebApiDotNet7/JwtWebApiDotNet7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/joynalabedin/.nuget/NuGet/NuGet.Config"
+        "/Users/mac/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10759,7 +10758,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }
